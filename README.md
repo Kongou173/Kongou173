@@ -1,5 +1,5 @@
 ## Profile
-Hello, I am kongou173(こんごう).
+Hey everyone, I am kongou173(こんごう).
 
 |  |  |
 | ---- | ---- |
