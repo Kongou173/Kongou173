@@ -12,6 +12,10 @@ Hello, I am kongou173(こんごう).
 ## status(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongou173)(https://github.com/anuraghazra/github-readme-stats) 
 
+## contact
+SNS(pixiv): [ファイナルアタッカー] (https://www.pixiv.net/users/99679627)
+SNS(discord server):[kongou official server] (https://discord.gg/r594PHeNNp)
+
 ## 主な使用言語
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
