@@ -1,6 +1,12 @@
 ## Profile
 Hey everyone, I am kongou173(こんごう).
 
+<p align="center"> 
+  Visitor count
+  
+  <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
+</p>
+
 |  |  |
 | ---- | ---- |
 | Age(年齢) | 15 |
