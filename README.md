@@ -18,7 +18,7 @@ Hey everyone, I am kongou173(こんごう).
 我は中学生です。 / I am a junior high school student.  
 ## status(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongou173)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api?username=sizumita&show_icons=true&theme=tokyonight)
 
 ## contact(コンタクト)
 - SNS(pixiv): [ファイナルアタッカー](https://www.pixiv.net/users/99679627)
