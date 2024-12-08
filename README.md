@@ -1,4 +1,4 @@
-## Profile
+## あいさつ
 Hey everyone, I am kongou173(こんごう).
 
 <p align="center"> 
@@ -7,9 +7,10 @@ Hey everyone, I am kongou173(こんごう).
   <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
 </p>
 
+## Self-introduction(自己紹介)
+
 |  |  |
 | ---- | ---- |
-| Self-introduction(自己紹介) | |
 | Age(年齢) | 15 |
 | gender(性別) | man(男) |
 | wish(願い) | To go to Gensougo, meet Reimu Hakurei, and play with Touhou characters in a barrage of bullets (we respond with machine guns and missiles).  |
