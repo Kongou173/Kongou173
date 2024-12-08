@@ -19,7 +19,6 @@ Hey everyone, I am kongou173(こんごう).
 ## status(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=kongou173)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?kongou173=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
-- SNS(pixiv): [ファイナルアタッカー](https://www.pixiv.net/users/99679627)
 
 - SNS(discord server):[kongou official server](https://discord.gg/r594PHeNNp)
 
