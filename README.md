@@ -1,5 +1,5 @@
 ## あいさつ
-Hey everyone, I am kongou173(こんごう).
+Hey everyone, I am Kongou173(こんごう).
 
 <p align="center"> 
   Visitor count
