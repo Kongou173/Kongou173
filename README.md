@@ -39,3 +39,7 @@ Hey everyone, I am kongou173(こんごう).
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
+
+## 自作discord bot
+- Coresync bot:[導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
+- Bot公式サイト:[公式ページ](https://kongou173.github.io/Coresync-bot/)
