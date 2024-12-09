@@ -21,7 +21,7 @@ Hey everyone, I am kongou173(こんごう).
 我は中学生です。 / I am a junior high school student.  
 
 ## Discord
-![My Discord](https://discord-readme-badge.vercel.app/api?id=1302874902524858431)
+![My Discord](https://discord-readme-badge.vercel.app/api?id=1229191992198561843)
 
 ## Github stats(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongou173)](https://github.com/anuraghazra/github-readme-stats)
