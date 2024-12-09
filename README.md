@@ -17,7 +17,6 @@ Hey everyone, I am kongou173(こんごう).
 | 日本語訳 | 幻想郷に行って、博麗霊夢に会ったり、東方キャラと弾幕ごっこ(こっちは機関砲やミサイルで応戦)をすること　|
 | 一言 | 幻想郷に行ける方法を教えてください。 |
 
-[![Stats](https://github-readme-stats.vercel.app/api/wakatime?username=kongou173&layout=compact)](https://wakatime.com/@kongou173)
 
 我は中学生です。 / I am a junior high school student.  
 ## status(ステータス)
