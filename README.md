@@ -28,11 +28,11 @@ Hey everyone, I am Kongou173(こんごう).
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## contact(連絡)
-- SNS(discord server):[kongou official server](https://discord.gg/r594PHeNNp)
+- SNS(discord server):[Kongou official server](https://discord.gg/r594PHeNNp)
 - SNS(misskey):[@Final_attacker](https://misskey.io/@Final_attacker)
 - SNS(pixiv):[ファイナルアタッカー(小説読んでね)](https://www.pixiv.net/users/99679627)
 - SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
-- SNS(mastodon):[ファイナルアタッカー](https://mstdn.jp/@final_attacker)
+- SNS(mastodon):[@final_attacker](https://mstdn.jp/@final_attacker)
 - Web site:[ホームページ](https://finalattacker1.wordpress.com/)
 
 ## 主な使用言語
