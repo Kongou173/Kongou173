@@ -30,7 +30,8 @@ Hey everyone, I am kongou173(こんごう).
 ## contact(連絡)
 - SNS(discord server):[kongou official server](https://discord.gg/r594PHeNNp)
 - SNS(misskey):[@Final_attacker](https://misskey.io/@Final_attacker)
-- mail(gmail):[mail](jifengtongsheng@gmail.com)
+- SNS(pixiv):[ファイナルアタッカー(小説読んでね)](https://www.pixiv.net/users/99679627)
+- SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
 
 ## 主な使用言語
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
