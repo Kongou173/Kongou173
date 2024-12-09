@@ -32,8 +32,8 @@ Hey everyone, I am kongou173(こんごう).
 - SNS(misskey):[@Final_attacker](https://misskey.io/@Final_attacker)
 - SNS(pixiv):[ファイナルアタッカー(小説読んでね)](https://www.pixiv.net/users/99679627)
 - SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
-- SNS(mastodon)[ファイナルアタッカー](https://mstdn.jp/@final_attacker)
-- Web site[ホームページ](https://finalattacker1.wordpress.com/)
+- SNS(mastodon):[ファイナルアタッカー](https://mstdn.jp/@final_attacker)
+- Web site:[ホームページ](https://finalattacker1.wordpress.com/)
 
 ## 主な使用言語
   - ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=000)
