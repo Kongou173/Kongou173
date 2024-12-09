@@ -27,6 +27,7 @@ Hey everyone, I am kongou173(こんごう).
 [![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
+## contact(連絡)
 - SNS(discord server):[kongou official server](https://discord.gg/r594PHeNNp)
 
 ## 主な使用言語
