@@ -21,6 +21,8 @@ Hey everyone, I am kongou173(こんごう).
 ## status(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongou173)](https://github.com/anuraghazra/github-readme-stats)
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173)](https://github.com/anuraghazra/github-readme-stats)
+[![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
+)](https://github.com/ryo-ma/github-profile-trophy)
 
 - SNS(discord server):[kongou official server](https://discord.gg/r594PHeNNp)
 
