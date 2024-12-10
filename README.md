@@ -1,4 +1,4 @@
-## あいさつ
+## Hi,there.
 Hey everyone, I am Kongou173(こんごう).
 
 <p align="center"> 
@@ -6,6 +6,8 @@ Hey everyone, I am Kongou173(こんごう).
   
   <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
 </p>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 ## Self-introduction(自己紹介)
 
@@ -23,7 +25,6 @@ Hey everyone, I am Kongou173(こんごう).
 ## Github stats(ステータス)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 [![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
