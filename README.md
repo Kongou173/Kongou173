@@ -51,3 +51,4 @@ Hey everyone, I am Kongou173(こんごう).
 
 ## my Friend
 <img src="https://avatars.githubusercontent.com/u/95109758?v=4">
+ねんねこ/nennneko5787
