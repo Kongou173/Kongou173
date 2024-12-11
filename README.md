@@ -5,7 +5,7 @@ Hey everyone, I am Kongou173(こんごう).
 <p align="center"> 
   Visitor count
   
-  <img src="https://profile-counter.glitch.me/sizumita/count.svg" />
+  <img src="https://profile-counter.glitch.me/kongou173/count.svg" />
 </p>
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
