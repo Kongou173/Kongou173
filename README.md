@@ -14,8 +14,6 @@ My Skills
   <img src="https://profile-counter.glitch.me/kongou173/count.svg" />
 </p>
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
-
 ## Self-introduction(自己紹介)
 
 |  |  |
@@ -30,6 +28,8 @@ My Skills
 我は中学生です。 / I am a junior high school student.  
 
 ## Github stats(ステータス)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
