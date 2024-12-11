@@ -6,7 +6,7 @@
 Hey everyone, I am Kongou173(こんごう).
 
 My Skills
-[![My Skills](https://skillicons.dev/icons?i=bots,py,html,discord)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=discord,bots,py,html)](https://skillicons.dev)
 
 <p align="center"> 
   Visitor count
