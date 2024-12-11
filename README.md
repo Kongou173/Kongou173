@@ -28,9 +28,12 @@ My Skills
 我は中学生です。 / I am a junior high school student.  
 
 ## Github stats(ステータス)
+<p align="left"> 
+  
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kongou173&layout=compact&show_icons=true&theme=onedark)](https://github.com/anuraghazra/github-readme-stats)
+</p>
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
