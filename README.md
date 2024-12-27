@@ -41,7 +41,6 @@ My Skills
 ## contact(連絡)
 - SNS(discord server):[Kongou official server](https://discord.gg/r594PHeNNp)
 - SNS(misskey):[@Final_attacker](https://misskey.io/@Final_attacker)
-- SNS(pixiv):[ファイナルアタッカー(小説読んでね)](https://www.pixiv.net/users/99679627)
 - SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
 - SNS(mastodon):[@final_attacker](https://mstdn.jp/@final_attacker)
 - Web site:[ホームページ](https://finalattacker1.wordpress.com/)
