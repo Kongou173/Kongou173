@@ -49,7 +49,7 @@ My Skills
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 # Myslils
-|discord|https://skillicons.dev/icons?i=discord|
+|discord|[![My Skills](https://skillicons.dev/icons?i=discord,bots,py,html,github)](https://skillicons.dev)|
 
 
 ## 自作discord bot
