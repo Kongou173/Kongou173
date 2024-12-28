@@ -25,6 +25,9 @@ Hey everyone, I am Kongou173(こんごう).
 
 我は中学生です。 / I am a junior high school student.  
 
+## 自分のスキル
+[![My Skills](https://skillicons.dev/icons?i=py,bots,docker,html,css,js,&theme=light)](https://skillicons.dev)
+
 ## Github stats(ステータス)
 <p align="left"> 
 
@@ -42,41 +45,7 @@ Hey everyone, I am Kongou173(こんごう).
 - SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
 - SNS(mastodon):[@final_attacker](https://mstdn.jp/@final_attacker)
 - Web site:[ホームページ](https://finalattacker1.wordpress.com/)
-<tr align="center">
-        <th rowspan="2">Contacts</th>
-        <td rowspan="2"><b>Discord</b><a href="https://discord.com/"><br><img src="https://skillicons.dev/icons?i=discord" /></a></td>
-</tr>
-<tr align="center">
-        <td><a href="https://discord.com/users/1191892240663060612"><img src="./icons/subneko.webp" width="50"/></a></td>
-
-
-
-<br>
-<div align="center">
-<h2>使用言語</h2>
-<table>
-    <tr align="center">
-        <th rowspan="2">Languages</th>
-        <td width="100"><b>HTML</b></td>
-        <td width="100"><b>CSS</b></td>
-        <td width="100"><b>Python</b></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
-        <td><a href="https://developer.mozilla.org/ja/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a></td>
-        <td><a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" /></a></td>
-    </tr>
-    <tr align="center">
-        <th rowspan="2">使用ツール</th>
-        <td width="100"><b>Github</b></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://github.com/"><img src="https://skillicons.dev/icons?i=github" /></a></td>
-    </tr>
-</table>
-</div>
-
-
+   
 ## 自作discord bot
 - Coresync bot:[導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
 - Bot公式サイト:[公式ページ](https://kongou173.github.io/Coresync-bot/)
