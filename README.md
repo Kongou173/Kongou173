@@ -58,4 +58,5 @@ Hey everyone, I am Kongou173(こんごう).
 ## my Friend & Special Thanks
 <img src="https://avatars.githubusercontent.com/u/95109758?v=4">
 <br>ねんねこ/nennneko5787</br>
-- 本人のGithub垢 : [@nennneko5787](https://github.com/nennneko5787/)
+
+- 本人のGithub垢 : [@nennneko5787](https://github.com/nennneko5787)
