@@ -42,6 +42,14 @@ Hey everyone, I am Kongou173(こんごう).
 - SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
 - SNS(mastodon):[@final_attacker](https://mstdn.jp/@final_attacker)
 - Web site:[ホームページ](https://finalattacker1.wordpress.com/)
+| | |
+| ---- | ---- |
+| Age(年齢) | 15 |
+| gender(性別) | man(男) |
+| wish(願い) | To go to Gensougo, meet Reimu Hakurei, and play with Touhou characters in a barrage of bullets (we respond with machine guns and missiles).  |
+| 日本語訳 | 幻想郷に行って、博麗霊夢に会ったり、東方キャラと弾幕ごっこ(こっちは機関砲やミサイルで応戦)をすること　|
+| WEBサイト | [ホームページ](https://finalattacker1.wordpress.com/) |
+
 
 <br>
 <div align="center">
