@@ -48,7 +48,8 @@ My Skills
 ## 主な使用言語
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-
+# Myslils
+|discord|https://skillicons.dev/icons?i=discord|
 
 
 ## 自作discord bot
