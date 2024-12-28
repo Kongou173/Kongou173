@@ -63,12 +63,15 @@ Hey everyone, I am Kongou173(こんごう).
         <td colspan="2" height="75"><b>本人のSNS垢</b></td>
     </tr>
     <tr align="center">
-        <td><b>X(Twitter)</b></td>
+        <td><b>X</b></td>
         <td><b>Bluesky</b></td>
+        <td><b>Discord</b></td>
     </tr>
     <tr align="center">
         <td><a href="https://x.com/nennneko5787"><img src="https://skillicons.dev/icons?i=twitter" /><br>@nennneko5787</a></td>
-        <td><a href="https://github.com/nennneko5787"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>@nennneko5787</a></td>
+        <td><a href="https://github.com/nennneko5787"><img src="https://skillicons.dev/icons?i=github" width="50" />
+<br>@nennneko5787</a></td>
+　　　　　<td rowspan="2"><a href="https://discord.com/users/1048448686914551879"><img src="https://skillicons.dev/icons?i=discord" /><br>ねんねこ</a></td>
     </tr>
 </table>
 
