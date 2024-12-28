@@ -63,8 +63,8 @@ Hey everyone, I am Kongou173(こんごう).
         <td colspan="2" height="75"><b>本人のSNS垢</b></td>
     </tr>
     <tr align="center">
-        <td><b>X</b></td>
-        <td><b>Bluesky</b></td>
+        <td><b>Twitter(X)</b></td>
+        <td><b>Github</b></td>
         <td><b>Discord</b></td>
     </tr>
     <tr align="center">
