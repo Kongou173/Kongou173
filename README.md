@@ -7,7 +7,7 @@
 Hey everyone, I am Kongou173(こんごう).
 
 <p align="center"> 
-  <br>Visitor count</br>
+  <br>Visitor counter</br>
   
   <img src="https://profile-counter.glitch.me/kongou173/count.svg" />
 </p>
