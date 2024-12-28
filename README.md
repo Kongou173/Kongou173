@@ -63,7 +63,6 @@ My Skills
         <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
         <td><a href="https://developer.mozilla.org/ja/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a></td>
         <td><a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" /></a></td>
- 
     </tr>
     <tr align="center">
         <th rowspan="2">Frameworks /<br>Environments</th>
