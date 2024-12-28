@@ -55,6 +55,6 @@ Hey everyone, I am Kongou173(こんごう).
 - Coresync bot:[導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
 - Bot公式サイト:[公式ページ](https://kongou173.github.io/Coresync-bot/)
 
-## my Friend
+## my Friend & Special Thanks
 <img src="https://avatars.githubusercontent.com/u/95109758?v=4">
-ねんねこ/nennneko5787
+<br>ねんねこ/nennneko5787</br>
