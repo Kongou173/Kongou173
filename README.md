@@ -56,13 +56,11 @@ Hey everyone, I am Kongou173(こんごう).
 - Bot公式サイト : [公式ページ](https://kongou173.github.io/Coresync-bot/)
 
 ## my Friend & Special Thanks
-<img src="https://avatars.githubusercontent.com/u/95109758?v=4">
-<br>ねんねこ/nennneko5787</br>
 
 <table>
     <tr align="center">
-        <td rowspan="3" width="150"><img src="./icons/zense.webp" width="100"/><br><b><ruby>前<rt>ぜん</rt><ruby>世<rt>せ</rt></ruby></ruby> (Zense)</b></td>
-        <td colspan="2" height="75"><b>Illustrator / Designer</b></td>
+        <td rowspan="3" width="150"><img src="https://avatars.githubusercontent.com/u/95109758?v=4" width="100"/><br>ねんねこ/nennneko5787</br></td>
+        <td colspan="2" height="75"><b>本人のSNS垢</b></td>
     </tr>
     <tr align="center">
         <td><b>X(Twitter)</b></td>
@@ -70,7 +68,7 @@ Hey everyone, I am Kongou173(こんごう).
     </tr>
     <tr align="center">
         <td><a href="https://x.com/nennneko5787"><img src="https://skillicons.dev/icons?i=twitter" /><br>@nennneko5787</a></td>
-        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>@nennneko5787</a></td>
+        <td><a href="https://github.com/nennneko5787"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>@nennneko5787</a></td>
     </tr>
 </table>
 
