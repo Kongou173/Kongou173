@@ -25,8 +25,11 @@ Hey everyone, I am Kongou173(こんごう).
 
 我は中学生です。 / I am a junior high school student.  
 
-## 自分のスキル
-[![My Skills](https://skillicons.dev/icons?i=py,bots,docker,html,css,js,&theme=light)](https://skillicons.dev)
+## 自分の使う言語
+[![My Skills](https://skillicons.dev/icons?i=py,bots,docker,html,css,js,discordjs&theme=light)](https://skillicons.dev)
+
+## 使用ツール(というかこれ以外使わない)
+[![My Skills](https://skillicons.dev/icons?i=github,gcp&perline=3)](https://skillicons.dev)
 
 ## Github stats(ステータス)
 <p align="left"> 
