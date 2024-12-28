@@ -59,4 +59,18 @@ Hey everyone, I am Kongou173(こんごう).
 <img src="https://avatars.githubusercontent.com/u/95109758?v=4">
 <br>ねんねこ/nennneko5787</br>
 
-- 本人のGithub垢 : [@nennneko5787](https://github.com/nennneko5787)
+<table>
+    <tr align="center">
+        <td rowspan="3" width="150"><img src="./icons/zense.webp" width="100"/><br><b><ruby>前<rt>ぜん</rt><ruby>世<rt>せ</rt></ruby></ruby> (Zense)</b></td>
+        <td colspan="2" height="75"><b>Illustrator / Designer</b></td>
+    </tr>
+    <tr align="center">
+        <td><b>X(Twitter)</b></td>
+        <td><b>Bluesky</b></td>
+    </tr>
+    <tr align="center">
+        <td><a href="https://x.com/nennneko5787"><img src="https://skillicons.dev/icons?i=twitter" /><br>@nennneko5787</a></td>
+        <td><a href="https://bsky.app/profile/ze0n00se.bsky.social"><img src="https://skillicons.dev/icons?i=github" width="50" /><br>@nennneko5787</a></td>
+    </tr>
+</table>
+
