@@ -14,6 +14,7 @@ Hey everyone, I am Kongou173(こんごう).
 
 ## Self-introduction(自己紹介)
 
+| | |
 | ---- | ---- |
 | Age(年齢) | 15 |
 | gender(性別) | man(男) |
