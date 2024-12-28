@@ -59,7 +59,7 @@ Hey everyone, I am Kongou173(こんごう).
 
 <table>
     <tr align="center">
-        <td rowspan="3" width="150"><img src="https://avatars.githubusercontent.com/u/95109758?v=4" width="100"/><br>ねんねこ/nennneko5787</br></td>
+        <td rowspan="3" width="150"><img src="https://avatars.githubusercontent.com/u/95109758?v=4" width="100"/><br>ねんねこnennneko5787</br></td>
         <td colspan="2" height="75"><b>本人のSNS垢</b></td>
     </tr>
     <tr align="center">
