@@ -33,6 +33,9 @@ Hey everyone, I am Kongou173(こんごう).
 [![My Skills](https://skillicons.dev/icons?i=github,vscode,gcp&perline=3)](https://skillicons.dev)
 <br>これら以外は使わない。というか使えない。</br>
 
+## 主に作る物
+[![My Skills](https://skillicons.dev/icons?i=bots&theme=light)](https://skillicons.dev)
+
 ## Github stats(ステータス)
 <p align="left"> 
 
