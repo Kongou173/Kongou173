@@ -45,16 +45,17 @@ Hey everyone, I am Kongou173(こんごう).
 )](https://github.com/ryo-ma/github-profile-trophy)
 
 ## contact(連絡)
-- SNS(discord server):[Kongou official server](https://discord.gg/r594PHeNNp)
-- SNS(misskey):[@Final_attacker](https://misskey.io/@Final_attacker)
-- SNS(Pawoo):[@ISOKAZE](https://pawoo.net/@ISOKAZE)
-- SNS(mastodon):[@final_attacker](https://mstdn.jp/@final_attacker)
-- Web site:[ホームページ](https://finalattacker1.wordpress.com/)
+- SNS(discord server) : [Kongou official server](https://discord.gg/r594PHeNNp)
+- SNS(misskey) : [@Final_attacker](https://misskey.io/@Final_attacker)
+- SNS(Pawoo) : [@ISOKAZE](https://pawoo.net/@ISOKAZE)
+- SNS(mastodon) : [@final_attacker](https://mstdn.jp/@final_attacker)
+- Web site : [ホームページ](https://finalattacker1.wordpress.com/)
    
 ## 自作discord bot
-- Coresync bot:[導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
-- Bot公式サイト:[公式ページ](https://kongou173.github.io/Coresync-bot/)
+- Coresync bot : [導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
+- Bot公式サイト : [公式ページ](https://kongou173.github.io/Coresync-bot/)
 
 ## my Friend & Special Thanks
 <img src="https://avatars.githubusercontent.com/u/95109758?v=4">
 <br>ねんねこ/nennneko5787</br>
+- 本人のGithub垢 : [@nennneko5787](https://github.com/nennneko5787/)
