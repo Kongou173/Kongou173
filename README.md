@@ -65,19 +65,6 @@ My Skills
         <td><a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" /></a></td>
     </tr>
     <tr align="center">
-        <th rowspan="2">Frameworks /<br>Environments</th>
-        <td width="100"><b>Node.js</b></td>
-        <td width="100"><b>discord.js</b></td>
-        <td width="100"><b>MongoDB</b></td>
-        <td colspan="2"></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a></td>
-        <td><a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" /></a></td>
-        <td><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a></td>
-        <td colspan="2"></td>
-    </tr>
-    <tr align="center">
         <th rowspan="2">使用ツール</th>
         <td width="100"><b>Github</b></td>
     </tr>
