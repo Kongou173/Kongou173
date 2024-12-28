@@ -2,7 +2,8 @@
 
 [![typograssy](https://typograssy.deno.dev/api?text=Kongou173%20)](https://github.com/kawarimidoll/typograssy)
 
-<img src="https://note.com/kongou173/n/n3f59909957f9" alt="Mokkapps GitHub README header image">
+![Kongou](https://github.com/user-attachments/assets/d6796043-d87e-4637-a4f2-f89610df9799)
+
 Hey everyone, I am Kongou173(こんごう).
 
 <p align="center"> 
