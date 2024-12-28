@@ -27,7 +27,7 @@ Hey everyone, I am Kongou173(こんごう).
 
 ## 自分の使う言語
 [![My Skills](https://skillicons.dev/icons?i=py,bots,docker,html,css,js,nodejs,discordjs&theme=light)](https://skillicons.dev)
-(javaとjs関連は稀にしか使わない)
+<br>(javaとjs関連は稀にしか使わないけど一応追加しておく)</br>
 
 ## 使用ツール
 [![My Skills](https://skillicons.dev/icons?i=github,gcp&perline=3)](https://skillicons.dev)
