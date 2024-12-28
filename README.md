@@ -1,8 +1,8 @@
 ## Hi,there.
 
-[![typograssy](https://typograssy.deno.dev/api?text=Kongou173%20)](https://github.com/kawarimidoll/typograssy)
-
 ![Kongou](https://github.com/user-attachments/assets/d6796043-d87e-4637-a4f2-f89610df9799)
+
+[![typograssy](https://typograssy.deno.dev/api?text=Kongou173%20)](https://github.com/kawarimidoll/typograssy)
 
 Hey everyone, I am Kongou173(こんごう).
 
