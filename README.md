@@ -30,7 +30,7 @@ Hey everyone, I am Kongou173(こんごう).
 <br>(javaとjs関連は稀にしか使わないけど一応追加しておく)</br>
 
 ## 使用ツール
-[![My Skills](https://skillicons.dev/icons?i=github,gcp&perline=3)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=github,vscode,gcp&perline=3)](https://skillicons.dev)
 <br>これら以外は使わない。というか使えない。</br>
 
 ## Github stats(ステータス)
