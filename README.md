@@ -49,32 +49,7 @@ My Skills
   - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)
   - ![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white)
 
-<br>
-<div align="center">
-<h2>💻 Skills in Use & Learning</h2>
-<table>
-    <tr align="center">
-        <th rowspan="2">Languages</th>
-        <td width="100"><b>HTML</b></td>
-        <td width="100"><b>CSS</b></td>
-        <td width="100"><b>Python</b></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://developer.mozilla.org/ja/docs/Web/HTML"><img src="https://skillicons.dev/icons?i=html" /></a></td>
-        <td><a href="https://developer.mozilla.org/ja/docs/Web/CSS"><img src="https://skillicons.dev/icons?i=css" /></a></td>
-        <td><a href="https://python.org/"><img src="https://skillicons.dev/icons?i=py" /></a></td>
-    </tr>
-    <tr align="center">
-        <th rowspan="2">Frameworks /<br>Environments</th>
-        <td width="100"><b>Node.js</b></td>
-        <td width="100"><b>discord.js</b></td>
-        <td width="100"><b>MongoDB</b></td>
-        <td colspan="2"></td>
-    </tr>
-    <tr align="center">
-        <td><a href="https://nodejs.org/"><img src="https://skillicons.dev/icons?i=nodejs" /></a></td>
-        <td><a href="https://discord.js.org/"><img src="https://skillicons.dev/icons?i=discordjs" /></a></td>
-        <td><a href="https://www.mongodb.com/"><img src="https://skillicons.dev/icons?i=mongodb" /></a></td>
+
 
 ## 自作discord bot
 - Coresync bot:[導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
