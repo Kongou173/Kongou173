@@ -1,4 +1,4 @@
-## Kongou173
+## Kongou173(icon)
 
 <div align="center">
 <img src="https://github.com/user-attachments/assets/86c90c54-5b37-474d-841c-0f25d0e9b20a" width="150" height="150px" />
