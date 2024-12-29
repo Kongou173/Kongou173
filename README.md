@@ -1,3 +1,8 @@
+## Kongou173
+![novaskin-wallpaper-thehunter_1229095529-removebg-preview](https://github.com/user-attachments/assets/86c90c54-5b37-474d-841c-0f25d0e9b20a)
+
+
+
 ## Hi,there.
 
 ![Kongou](https://github.com/user-attachments/assets/d6796043-d87e-4637-a4f2-f89610df9799)
