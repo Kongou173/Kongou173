@@ -41,6 +41,7 @@ Hey everyone, I am Kongou173(こんごう).
 
 ## 主に作る物
 [![My Skills](https://skillicons.dev/icons?i=bots&theme=light)](https://skillicons.dev)
+<br>Discord botしか基本作らない。</br>
 
 ## Github stats(ステータス)
 <p align="left"> 
