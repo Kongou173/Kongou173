@@ -24,7 +24,8 @@ Hey everyone, I am Kongou173(こんごう).
 | ---- | ---- |
 | Age(年齢) | 15 |
 | gender(性別) | man(男) |
-| wish(願い) | To go to Gensougo, meet Reimu Hakurei, and play with Touhou characters in a barrage of bullets (we respond with machine guns and missiles).  |
+| Things I hate(嫌いな物) | All mushroom(きのこ全般)、mathematics(数学)、Examination(受験) |
+| wish(願い) | To go to Gensoukyo, meet Reimu Hakurei, and play with Touhou characters in a barrage of bullets (we respond with machine guns and missiles).  |
 | 日本語訳 | 幻想郷に行って、博麗霊夢に会ったり、東方キャラと弾幕ごっこ(こっちは機関砲やミサイルで応戦)をすること　|
 | 一言 | 幻想郷に行ける方法を教えてください。 |
 
