@@ -61,6 +61,7 @@ Hey everyone, I am Kongou173(こんごう).
 - SNS(Pawoo) : [@ISOKAZE](https://pawoo.net/@ISOKAZE)
 - SNS(mastodon) : [@final_attacker](https://mstdn.jp/@final_attacker)
 - Web site : [ホームページ](https://finalattacker1.wordpress.com/)
+- Web Site2 : [ホームページ2](https://kongou173.github.io/Homepage/index.html)
    
 ## 自作discord bot
 - Coresync bot : [導入する](https://discord.com/oauth2/authorize?client_id=1307237337524342825)
