@@ -52,6 +52,9 @@ Hey everyone, I am Kongou173(こんごう).
   <img alt="github stats" height="150px" src="https://github-readme-stats.vercel.app/api?username=Kongou173&layout=compact&theme=onedark&show_icons=ture" />
 </p>
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=Kongou173&date_format=%5BY%2F%5Dn%2Fj&ring=48b0d5&fire=48b0d5&currStreakLabel=48b0d5&currStreakNum=48b0d5)](https://git.io/streak-stats)
+
+
 [![trophy](https://github-profile-trophy.vercel.app/?username=kongou173&theme=tokyonight&column=7
 )](https://github.com/ryo-ma/github-profile-trophy)
 
